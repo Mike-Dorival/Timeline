@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Timeline/static/css/main.5565f00e.chunk.css",
+    "main.js": "/Timeline/static/js/main.7d8a2c3e.chunk.js",
+    "main.js.map": "/Timeline/static/js/main.7d8a2c3e.chunk.js.map",
+    "runtime-main.js": "/Timeline/static/js/runtime-main.e1ceb612.js",
+    "runtime-main.js.map": "/Timeline/static/js/runtime-main.e1ceb612.js.map",
+    "static/js/2.a606a14d.chunk.js": "/Timeline/static/js/2.a606a14d.chunk.js",
+    "static/js/2.a606a14d.chunk.js.map": "/Timeline/static/js/2.a606a14d.chunk.js.map",
+    "index.html": "/Timeline/index.html",
+    "precache-manifest.7501013289a6a82bc765cef13f4d2035.js": "/Timeline/precache-manifest.7501013289a6a82bc765cef13f4d2035.js",
+    "service-worker.js": "/Timeline/service-worker.js",
+    "static/css/main.5565f00e.chunk.css.map": "/Timeline/static/css/main.5565f00e.chunk.css.map",
+    "static/js/2.a606a14d.chunk.js.LICENSE.txt": "/Timeline/static/js/2.a606a14d.chunk.js.LICENSE.txt",
+    "static/media/astronaute.png": "/Timeline/static/media/astronaute.a0261b88.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e1ceb612.js",
+    "static/js/2.a606a14d.chunk.js",
+    "static/css/main.5565f00e.chunk.css",
+    "static/js/main.7d8a2c3e.chunk.js"
+  ]
+}
